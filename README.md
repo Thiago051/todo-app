@@ -21,7 +21,7 @@ Este é um projeto simples de **Lista de Tarefas (To-Do List)** criado com **Rea
 ## 🌐 Demo
 
 > 🧪 Acesse a versão online:  
-**[🔗 Ver Demo no GitHub Pages](https://thiago051.github.io/todo-app)** ← _adicione este link após configurar_
+**[🔗 Ver Demo no GitHub Pages](https://thiago051.github.io/todo-app)**
 
 ---
 
