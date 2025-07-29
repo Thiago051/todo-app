@@ -44,11 +44,11 @@ function App() {
 
   return (
     <div className="app">
-       <ThemeToggle darkMode={darkMode} setDarkMode={setDarkMode} />
-       <h1>To-Do List</h1>
+      <ThemeToggle darkMode={darkMode} setDarkMode={setDarkMode} />
+      <h1>To-Do List</h1>
       <TaskInput onAdd={addTask} />
       <TaskList tasks={filteredTasks} onToggle={toggleComplete} onDelete={deleteTask} />
-       <div className="filters">
+      <div className="filters">
         <button onClick={() => setFilter('all')}>Todas</button>
         <button onClick={() => setFilter('completed')}>Concluídas</button>
         <button onClick={() => setFilter('pending')}>Pendentes</button>
